@@ -1,0 +1,3 @@
+[submodule "ffm-auth"]
+	path = ffm-auth
+	url = https://github.com/tuinzaman/test.git
